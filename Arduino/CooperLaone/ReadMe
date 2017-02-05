@@ -1,1 +1,12 @@
-Zack's a bitch
+To Program to ESP8266 through arduino sketch
+  follow instructions from 
+  http://www.whatimade.today/esp8266-easiest-way-to-program-so-far/
+
+When Programming 
+  connect GPIO0 to gnd, powercycle esp, then program
+  might have to try a few times until it works
+  then you need to reset the device, and switch GPIO0 back to VDD
+  
+To monitor Serial Port go to serial monitor in sketch
+Baud rate 115200, new line and cr
+
