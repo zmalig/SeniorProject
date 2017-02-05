@@ -1,0 +1,23 @@
+pfodParser	KEYWORD1
+isRefresh	KEYWORD2
+getVersion KEYWORD2
+getVersionRequested KEYWORD2
+sendVersion KEYWORD2
+setIdleTimeout	KEYWORD2
+setDebugStream	KEYWORD2
+init	KEYWORD2
+getPfodAppStream	KEYWORD2
+disconnected	KEYWORD2
+connected	KEYWORD2
+parse KEYWORD2
+getCmd KEYWORD2
+getFirstArg KEYWORD2
+getNextArg KEYWORD2
+getArgsCount KEYWORD2
+parseLong KEYWORD2
+strncpy_safe KEYWORD2
+getProgStr KEYWORD2
+
+
+
+	
