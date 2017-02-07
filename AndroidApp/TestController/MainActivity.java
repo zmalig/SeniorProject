@@ -1,4 +1,4 @@
-package com.zackmalig.blindscontroller;
+package com.librarian.zachary.blindscontroller;
 
 import android.content.Intent;
 import android.os.Bundle;
