@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Smart Mini Blinds</string>
+    <string name="okay_command">{command here}</string>
+
+    //ESP commands
+    <string name="send_ssid_command">{command here}</string>
+    <string name="send_pass_command">{command here}</string>
+    <string name="send_reset_command">{command here}</string>
+    <string name="set_ip_command">{command here}</string>
+    <string name="set_port_command">{command here}</string>
+
+    <string name="pos_up_command">{command here}</string>
+    <string name="pos_down_command">{command here}</string>
+    <string name="tilt_up_command">{command here}</string>
+    <string name="tilt_down_command">{command here}</string>
+
+</resources>
